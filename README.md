@@ -30,9 +30,18 @@ This repository contains my **DATA STRUCTURES and ALGORITHM** to improve problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sonal21yadav/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [3024-type-of-triangle](https://github.com/sonal21yadav/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonal21yadav/DSA-Practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonal21yadav/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonal21yadav/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
